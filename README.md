@@ -1,2 +1,3 @@
 # Spacy-Tutorial
-Practice code for the Spacy tutorial provided on the website of Spacy, the Python NLP library
+
+Practice code for the tutorial/course [**Advanced NLP with Spacy**](https://course.spacy.io/en)
